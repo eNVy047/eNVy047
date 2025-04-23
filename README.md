@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Narayan Verma</h1>
 <h3 align="center">Full Stack Dev 🧠 AI/ML Enthusiast | React Native & LLM Explorer</h3>
 
+
+If you like my work and want to support me, you can buy me a coffee!  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://www.buymeacoffee.com/narayanverma)
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
 </p>
@@ -56,6 +61,12 @@
     <img align="center" src="https://img.shields.io/badge/-Portfolio-24292E?logo=githubpages&style=flat" />
   </a>
 </p>
+
+### ☕ Support Me
+
+If you like my work and want to support me, you can buy me a coffee!  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://www.buymeacoffee.com/narayanverma)
+
 
 ---
 
