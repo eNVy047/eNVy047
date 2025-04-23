@@ -2,9 +2,11 @@
 <h3 align="center">Full Stack Dev 🧠 AI/ML Enthusiast | React Native & LLM Explorer</h3>
 
 
-<h3 align="center">
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://www.buymeacoffee.com/narayanverma)
-</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/narayanverma" target="_blank">
+    <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 
 <p align="center">
