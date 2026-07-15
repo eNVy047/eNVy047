@@ -2,17 +2,6 @@
 <h3 align="center">Full Stack Dev 🧠 AI/ML Enthusiast | React Native & LLM Explorer</h3>
 
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/narayanverma" target="_blank">
-    <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
-</p>
-
 - 🌱 Currently learning and building with **LLMs**, **Generative AI**, and **Cloud Tools**  
 - ⚙️ Working with **React**, **Next.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **Firebase**  
 - 📱 Building cross-platform apps using **React Native (Android & iOS)**  
@@ -39,15 +28,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eNVy047&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eNVy047&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
@@ -64,12 +44,6 @@
     <img align="center" src="https://img.shields.io/badge/-Portfolio-24292E?logo=githubpages&style=flat" />
   </a>
 </p>
-
-### ☕ Support Me
-
-If you like my work and want to support me, you can buy me a coffee!  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://www.buymeacoffee.com/narayanverma)
-
 
 ---
 
